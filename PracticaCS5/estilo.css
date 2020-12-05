@@ -1,0 +1,36 @@
+.contenedorp{
+    position: absolute;
+    height: 400px;
+    width: 600px;
+    background: #00cc66;
+    text-align: center;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%,-50%);
+    border-radius: 30px;
+
+
+}
+.cardbody{
+    background: white;
+    height: 90%;
+    padding: 20px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    
+}
+body{
+    background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials.jpg);
+    background-size: cover;
+}
+.estilotexto {
+    margin-top: 10%;
+
+}
+.estilotexto input{
+    width: 70%;
+    margin-bottom: 40px;
+
+}
+
+
